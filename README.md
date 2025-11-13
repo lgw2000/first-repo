@@ -32,16 +32,12 @@ There is no installation
 
 ## Test latex
 
-- $`e^{i*theta} = \cos(theta) + i*sin(theta)`$
+- $`e^{i\theta} = \cos\theta + i\sin\theta`$
 
 what if doing like this?
 
-- ```math
-
-e^{i*theta} = \cos(theta) + i*sin(theta)
-
- ```
+- ```math e^{i\theta} = \cos\theta + i\sin\theta  ```
 
 and this?
 
-- $$e^{i*theta} = \cos(theta) + i*sin(theta) $$
+- $e^{i\theta} = \cos\theta + i\sin\theta$
