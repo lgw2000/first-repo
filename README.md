@@ -6,9 +6,9 @@
 
 ## Prerequisites
 
--git
--python^3.13
--pandas==1.0.0
+- git
+- python^3.13
+- pandas==1.0.0
 
 ## How to Start
 
@@ -32,5 +32,5 @@ There is no installation
 
 ## Test latex
 
-$e^{i*theta} = \\cos(theta) + i*sin(theta)$
+$`e^{i*theta} = \\cos(theta) + i*sin(theta)`$
 
